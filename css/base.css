@@ -1,0 +1,30 @@
+
+
+body {
+  font-family: 'itc-benguiat', serif;
+  color: white;
+  font-size: 25px;
+  line-height: 50px;
+  background-color: black;
+ 
+  
+}
+
+
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  top:1000px;
+  position: relative;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.content__text {
+  position: absolute;
+  font-size: 10vw;
+}
+
+
+
